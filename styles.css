@@ -1,0 +1,142 @@
+.body-margin{
+  margin: 40px ;
+}
+
+.block{
+  background-color: #f1f3f8 ;
+  margin: 10px 50px 10px 50px ;
+  padding-left: 10px ;
+  padding-right: 10px ;
+}
+
+
+.make-inline{
+  display: inline-block;
+}
+
+.my-btn{
+  float: right;
+  height: 25px ;
+  width: 65px ;
+  background-color: #d6e0f0 ;
+  margin: 6px 10px 2px auto ;
+  padding: 2px !important ;
+  font-size: 0.75rem !important ;
+}
+
+.my-btn:hover{
+  background-color: #a2d5f2 ;
+}
+
+
+.opportunites-nav{
+  /* margin-left: 0px !important ;
+  margin-right: 0px !important ; */
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.margin-zero{
+  margin-left: 30px !important ;
+  margin-right: 30px !important ;
+}
+
+.opportunites-nav-link{
+  margin-left: 30px ;
+  margin-right: 5px;
+  padding: 5px;
+  color: #1b262c ;
+  background-color: #e1f4f3 ;
+}
+
+.opportunites-nav-link:hover{
+  background-color: #dae1e7 ;
+  text-decoration: none;
+  color: black ;
+}
+
+
+#opportunites{
+  margin: 20px auto 20px 90px ;
+}
+
+.nav-div{
+  background-color: white ;
+}
+
+
+.li-link{
+  color: #035aa6 ;
+  padding: 5px ;
+}
+
+li{
+  margin-bottom: 10px ;
+}
+
+.li-link:hover{
+  /* background-color: #4cbbb9 ; */
+  background-color: #d6e0f0 ;
+  text-decoration: none;
+}
+
+
+.make-none{
+  display: none ;
+}
+
+.make-block{
+  display: block;
+  margin-left: 50px ;
+}
+
+.item{
+ padding: 20px;
+ margin: 30px 80px 30px 80px ;
+ background-color: #f1f3f8 ;
+}
+
+
+.list-scholarships{
+  overflow: auto;
+  height: 150px ;
+  width: 50% ;
+}
+
+#width-change{
+  width: 200px !important ;
+  display: inline !important ;
+}
+
+.add-btn{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    border-color: transparent;
+    background-color: #007bff;
+    color: #fff;
+    font-size: 25px;
+    border-width: 0;
+}
+
+.add-btn:hover{
+  background-color: #0069d9;
+}
+
+.search{
+  background-color: #f6f5f5 ;
+  display: inline-block;
+  padding: 20px ;
+  margin: 20px 20px 30px 20px ;
+  position: relative;
+  left: 30px;
+}
+
+
+.right-side{
+  margin: auto 10px auto 10px ;
+}
+
+.search-item{
+  margin: 5px;
+}
